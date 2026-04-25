@@ -1,0 +1,39 @@
+
+************************************************************
+          TOP 5 HIGHEST RANKED MOVIES
+************************************************************
+        movie_title  hybrid_score  sentiment_score  rating
+Birdman of Alcatraz      0.921981         0.888545    10.0
+   Venus And Serena      0.919128         0.884468    10.0
+   Army of Darkness      0.919128         0.884468    10.0
+           Guncrazy      0.919128         0.884468    10.0
+     The Full Monty      0.919128         0.884468    10.0
+
+************************************************************
+      DEBUG: SIMILARITY-BASED SUGGESTIONS
+************************************************************
+
+Since you liked 'Birdman of Alcatraz':
+  -> I Am a Fugitive From a Chain Gang
+  -> Something to Talk About
+  -> Albino Alligator
+
+Since you liked 'Venus And Serena':
+  -> Invaders From Mars
+  -> Muriel ou Le Temps d'un Retour (The Time of Return)
+  -> The Muppets Take Manhattan
+
+Since you liked 'Army of Darkness':
+  -> Invaders From Mars
+  -> Muriel ou Le Temps d'un Retour (The Time of Return)
+  -> The Muppets Take Manhattan
+
+Since you liked 'Guncrazy':
+  -> Invaders From Mars
+  -> Muriel ou Le Temps d'un Retour (The Time of Return)
+  -> The Muppets Take Manhattan
+
+Since you liked 'The Full Monty':
+  -> Invaders From Mars
+  -> Muriel ou Le Temps d'un Retour (The Time of Return)
+  -> The Muppets Take Manhattan
